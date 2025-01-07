@@ -3,10 +3,9 @@ I am a passionate **Data Analyst** and **AI Enthusiast** with a knack for uncove
 
 - 🎓 Currently pursuing a **Master of Computer Application** at Measi Institute of Information Technology (CGPA: 8.0).
 - 🎓 Graduated with a **Bachelor of Science in Computer Science** from Thiruthangal Nadar College (CGPA: 8.2).
-- 💼 Assistant Coach and Performance Analyst at **CHRC**, focusing on sports analytics and performance improvement.
 - 🏅 Achieved medals in state rifle shooting events and participated in national-level competitions.
 - 🛠️ Working on exciting projects, including a **Smart Traffic Light System** and a **Power BI Sales Report**.
-- 
+  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhatsheth_roshan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhatsheth-roshan) 
