@@ -55,9 +55,9 @@ I am a passionate **Data Analyst** and **AI Enthusiast** with a knack for uncove
 
 ## Let's Connect 🌐
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhatsheth-roshan/)
 - 🌟 [Portfolio](https://your-portfolio-link.com)
-- 📫 Email: your-email@example.com
+- 📫 Email: dhatshethroshan686@gmail.com
 
 ![Contact GIF](https://user-images.githubusercontent.com/your-image-link/contact-gif.gif)
 
